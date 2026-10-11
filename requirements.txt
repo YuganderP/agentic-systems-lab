@@ -1,0 +1,16 @@
+# Core Environment & Validation
+pydantic>=2.7.0
+python-dotenv>=1.0.1
+
+# Web Framework & Async
+fastapi>=0.111.0
+uvicorn>=0.30.0
+
+# LLM Providers & Agent Frameworks
+# (Uncomment as you reach Sections 13+)
+# openai>=1.30.0
+# google-generativeai>=0.5.0
+# langchain>=0.2.0
+# langgraph>=0.0.50
+# mcp>=0.1.0
+# chromadb>=0.5.0
