@@ -19,21 +19,9 @@ This repository documents the progressive journey from foundational Python inter
 
 ---
 
-## 📂 Repository Architecture
+## 📂 Repository Structure
 
-```text
-agentic-systems-lab/
-├── 01-python-foundations/         # Environment setup, namespaces, scopes & style
-├── 02-data-structures-and-ops/    # Mutability, strings, lists, sets, dicts, collections
-├── 03-control-flow-and-functions/ # Conditionals, loops, walrus op, pure functions, LEGB
-├── 04-generators-and-decorators/  # Yield, coroutines, yield from, custom decorators
-├── 05-oop-and-system-design/      # Classes, polymorphism, encapsulation, custom errors
-├── 06-llm-and-prompt-engineering/ # OpenAI / Gemini APIs, structured outputs, Pydantic
-├── 07-rag-and-vector-databases/   # Chunking, embeddings, ChromaDB, retrieval pipelines
-├── 08-agentic-workflows-langgraph/# State graphs, ReAct loops, memory & multi-agent systems
-├── 09-mcp-servers-and-tools/      # Model Context Protocol servers and client tools
-└── 10-production-deployment/      # FastAPI REST/streaming endpoints, Dockerfiles
-```
+Create your project scripts and modules directly as you progress through each lecture and milestone. All dependencies, environment secrets, and vector stores are pre-configured in `.gitignore`.
 
 ---
 
